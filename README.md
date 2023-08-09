@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **things that middle iOS Developer should know**
 
-- 🤝 I’m looking for help with **fining a job**
+- 🤝 I’m looking for help with **finidng a job**
 
 - 💬 Ask me about **Swift and it's frameworks**
 
