@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Herman!</h1>
+<h1 align="center">Hi 👋, I'm Herman</h1>
 <h3 align="center">An iOS developer with passion for challenges.</h3>
 
 - 🔭 I’m currently working on [the Wearther app, which shows weather and tips about what you should wear](https://github.com/gerruh/Wearther)
@@ -9,13 +9,11 @@
 
 - 💬 Ask me about **Swift and it's frameworks**
 
-- 📫 How to reach me **avvewyccstrila@gmail.com**
-
 - ⚡ Fun fact **I have a painting with a capybara sitting on grass during the thunderstorm, it boosts my morale**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gerruh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gerruh" height="30" width="40" /></a>
+
 <a href="https://instagram.com/gerruh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gerruh" height="30" width="40" /></a>
 </p>
 
