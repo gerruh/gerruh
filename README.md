@@ -5,15 +5,17 @@
 
 - 🌱 I’m currently learning **things that middle iOS Developer should know**
 
-- 🤝 I’m looking for help with **finidng a job**
+- 🤝 I’m looking for help with **finding a job**
 
 - 💬 Ask me about **Swift and it's frameworks**
+
+- 📫 How to reach me **avvewyccstrila@gmail.com / @gerruh - Telegram**
 
 - ⚡ Fun fact **I have a painting with a capybara sitting on grass during the thunderstorm, it boosts my morale**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="https://linkedin.com/in/herman volzhsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herman volzhsky" height="30" width="40" /></a>
 <a href="https://instagram.com/gerruh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gerruh" height="30" width="40" /></a>
 </p>
 
