@@ -1,23 +1,30 @@
-<h1 align="center">Hi 👋, I'm Herman</h1>
-<h3 align="center">An iOS developer with passion for challenges.</h3>
+# Hello
+I m an iOS developmer with focus on UIKit and strong knowledge in SwiftUI.
 
-- 🔭 I’m currently working on [the Wearther app, which shows weather and tips about what you should wear](https://github.com/gerruh/Wearther)
+# iOS development skills
+- Swift
+- UIKit (have some pet projects) / SwiftUI
+- Combine / RxSwift 
+- OOP / POP / DRY / KISS / SOLID / YAGNI
+- MVC / MVVM / MVP / VIP / VIPER / TCA
+- GCD / Operation / async-await
+- Storyborads / .xib / SnapKit / UI in code
+- CoreData / FileManager / User Defaults / Realm / Keychain
+- CocoaPods / SPM
+- RestAPI / JSON
+- Firebase (Auth / Firestore / Realtime database / Storage / Crashlytics / Analytics)
+- URLSession
+- Alamofire / Kingfisher
+- Animation
+- XCTest (UI, Unit, Snapshot)
+- XcodeGen / Tuist
+- Swiftlint
+- Fastlane
+- Git / GitHub / Sourcetree
+- Jira / Trello / Miro
+- Figma / Photoshop / Illustrator
 
-- 🌱 I’m currently learning **things that middle iOS Developer should know**
-
-- 🤝 I’m looking for help with **finding a job**
-
-- 💬 Ask me about **Swift and it's frameworks**
-
-- 📫 How to reach me **Email: avvewyccstrila@gmail.com / Telegram: @gerruh**
-
-- ⚡ Fun fact **I have a painting with a capybara sitting on grass during the thunderstorm, it boosts my morale**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/herman-volzshsky-b423b9218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/herman-volzshsky-b423b9218/?trk=public-profile-join-page" height="30" width="40" /></a>
-<a href="https://instagram.com/gerruh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gerruh" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
+# Contacts
+(@gerruh)[https://t.me/Gerruh] - Telegram
+(hvolzhsky)[https://www.linkedin.com/in/hvolzhsky/] - Linkedin
+(@gerruh)[https://www.instagram.com/gerruh/] - Instagram
