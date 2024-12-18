@@ -25,6 +25,6 @@ I m an iOS developmer with focus on UIKit and strong knowledge in SwiftUI.
 - Figma / Photoshop / Illustrator
 
 # Contacts
-(@gerruh)[https://t.me/Gerruh] - Telegram
-(hvolzhsky)[https://www.linkedin.com/in/hvolzhsky/] - Linkedin
-(@gerruh)[https://www.instagram.com/gerruh/] - Instagram
+- [@gerruh](https://t.me/Gerruh) - Telegram
+- [hvolzhsky](https://www.linkedin.com/in/hvolzhsky/) - Linkedin
+- [@gerruh](https://www.instagram.com/gerruh/) - Instagram
